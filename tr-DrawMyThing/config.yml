@@ -1,0 +1,4 @@
+arene:
+  max-joueur: 8
+  min-joueur: 2
+  spawns:

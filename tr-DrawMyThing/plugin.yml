@@ -1,0 +1,11 @@
+name: DrawMyThing
+version: 0.1
+description: Mini-jeux dmt
+author: Amosar
+
+main: com.trafalcraft.drawMyThing.Main
+
+commands:
+   DrawMyThing:
+     description: Base command for the drawMyThing plugin.
+     aliases: [dmt]
